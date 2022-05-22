@@ -3,4 +3,3 @@ streamlit-webrtc
 SpeechRecognition==3.8.1
 gTTS==2.2.3
 pygame==2.0.1
-PyAudio-0.2.11-cp37-cp37m-win_amd64.whl
